@@ -36,9 +36,9 @@
 ### ECMAJcript：https://github.com/lisuyu/ECMAScript
 
 #### 内容介绍：
-  * JS基础
-  * JS高级
-  * ES5/6/7
+  * JS基础（√）
+  * JS高级（√）
+  * ES5/6/7（-）
   * JS模块化
 #### 资料来源
   JavaScript视频教程（未看完，P192）
