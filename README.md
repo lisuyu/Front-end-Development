@@ -15,6 +15,11 @@
 
 * 此为前端回顾整合
 
+
+# 资源存放
+## 教学视频资源在本人的B站收藏夹：前端技术相关
+## 视频中的源码教程资源在本人的百度云网盘中，大部分资源可以在视频的简介和评论区中找到
+
 ## HTML
 
 ### Github：https://github.com/lisuyu/HTML_css_JavaScript
@@ -42,3 +47,10 @@
   * JS模块化
 #### 资料来源
   JavaScript视频教程（未看完，P192）
+  
+## Ajax,Node.js，jQuery
+* 在学ECMAScript的时候发现自己缺少Ajax和Node.js的相关知识，导致学习得很艰难，需要先补上再继续学
+* 同样的jQuery也是需要掌握的，不能因为所谓的过时了而不去学习和掌握
+### Ajax：https://github.com/lisuyu/Ajax/tree/master/jQuery
+### Node.js:https://github.com/lisuyu/Node.js
+### jQuery:https://github.com/lisuyu/jQuery
