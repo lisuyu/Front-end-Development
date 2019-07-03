@@ -39,18 +39,19 @@
 ### JavaScript基础：https://github.com/lisuyu/JavaScript-  
 ### JavaScript高级：https://github.com/lisuyu/JavaScript_Advance  
 ### ECMAJcript：https://github.com/lisuyu/ECMAScript
+### JS模块化：https://github.com/lisuyu/Modularization
 
 #### 内容介绍：
   * JS基础（√）
   * JS高级（√）
-  * ES5/6/7（-）
-  * JS模块化
+  * ES5/6/7（√）
+  * JS模块化 （-）
 #### 资料来源
   JavaScript视频教程（未看完，P192）
   
 ## Ajax,Node.js，jQuery
 * 在学ECMAScript的时候发现自己缺少Ajax和Node.js的相关知识，导致学习得很艰难，需要先补上再继续学
 * 同样的jQuery也是需要掌握的，不能因为所谓的过时了而不去学习和掌握
-### Ajax：https://github.com/lisuyu/Ajax/tree/master/jQuery
-### Node.js:https://github.com/lisuyu/Node.js
-### jQuery:https://github.com/lisuyu/jQuery
+### Ajax：JS异步，不需要更新全部网页实现内容更新
+### Node.js:JS实现服务器端的功能实现
+### jQuery:前端库，可以实现对DOM对象的快捷操作，提供多种动画效果，提供多种插件方便开发
